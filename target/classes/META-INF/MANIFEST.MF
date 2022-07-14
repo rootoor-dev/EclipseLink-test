@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 18
+Class-Path: eclipselink-2.5.2.jar javax.persistence-2.1.0.jar sqlite-jdb
+ c-3.36.0.3.jar mysql-connector-java-8.0.29.jar protobuf-java-3.19.4.jar
+Main-Class: com.abidjan.ci.Main
+Created-By: Maven Integration for Eclipse
+
